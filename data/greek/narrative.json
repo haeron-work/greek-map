@@ -1,0 +1,19 @@
+{
+  "id": "narrative_odyssey",
+  "figure": "오디세우스 Ὀδυσσεύς",
+  "source_work": "호메로스, 『오디세이아』",
+  "sequence": [
+    { "step": 1, "place_id": "place_troy", "event": "트로이아 함락 후 귀환 항해를 시작하다." },
+    { "step": 2, "place_id": "place_ismarus", "event": "키코네스족의 땅을 습격하고 전사자를 남기다." },
+    { "step": 3, "place_id": "place_lotus_land", "event": "로토파고이족의 땅에서 부하들이 연꽃을 먹고 귀환 의지를 잃다." },
+    { "step": 4, "place_id": "place_cyclops_land", "event": "외눈박이 폴리페모스의 동굴에 갇혔다가 눈을 찌르고 탈출하다." },
+    { "step": 5, "place_id": "place_aeolia", "event": "바람의 신 아이올로스에게서 순풍을 받았으나 부하들의 실수로 폭풍에 휩쓸리다." },
+    { "step": 6, "place_id": "place_laestrygonians", "event": "거인족 라이스트뤼고네스의 공격으로 함대 대부분을 잃다." },
+    { "step": 7, "place_id": "place_aeaea", "event": "마녀 키르케의 섬에 도착해 1년을 머물다." },
+    { "step": 8, "place_id": "place_sirens", "event": "돛대에 몸을 묶고 세이렌의 노래를 무사히 지나치다." },
+    { "step": 9, "place_id": "place_scylla_charybdis", "event": "스킬라와 카립디스 사이의 좁은 해협을 통과하며 부하 여섯을 잃다." },
+    { "step": 10, "place_id": "place_ogygia", "event": "홀로 살아남아 칼립소의 섬에 7년간 머물다." },
+    { "step": 11, "place_id": "place_scheria", "event": "파이아케스족의 도움으로 배와 선물을 얻다." },
+    { "step": 12, "place_id": "place_ithaca", "event": "20년 만에 고향 이타카에 도착하다." }
+  ]
+}
