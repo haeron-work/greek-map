@@ -1,0 +1,122 @@
+[
+  {
+    "id": "place_troy",
+    "ancient_name": "Ἴλιον (Ilion)",
+    "modern_name": "히사를리크 (튀르키예)",
+    "coords": [26.2390, 39.9576],
+    "entity_type": "city",
+    "confidence": "certain",
+    "description": "트로이아 전쟁의 무대이자 귀환 항해의 출발점. 슐리만의 발굴 이후 히사를리크 언덕과 동일시됨.",
+    "source": "Homer, Iliad; Pleiades #550595"
+  },
+  {
+    "id": "place_ismarus",
+    "ancient_name": "Ἴσμαρος (Ismaros)",
+    "modern_name": "마로네이아 인근 (그리스 트라키아)",
+    "coords": [25.535, 40.866],
+    "entity_type": "settlement",
+    "confidence": "traditional",
+    "description": "귀환 직후 오디세우스 일행이 습격한 키코네스족의 땅.",
+    "source": "Homer, Odyssey 9.39-61"
+  },
+  {
+    "id": "place_lotus_land",
+    "ancient_name": "Λωτοφάγοι (Lotophagoi)의 땅",
+    "modern_name": "제르바 섬 (튀니지) — 전통적 비정",
+    "coords": [10.845, 33.8076],
+    "entity_type": "region",
+    "confidence": "disputed",
+    "description": "로토파고이족(연꽃 먹는 사람들)의 땅. 실제 위치 비정은 고대부터 전통에 근거하며 확정적이지 않음.",
+    "source": "Homer, Odyssey 9.82-104"
+  },
+  {
+    "id": "place_cyclops_land",
+    "ancient_name": "Κύκλωπες (Kyklopes)의 땅",
+    "modern_name": "시칠리아 에트나 인근 — 전통적 비정",
+    "coords": [15.087, 37.75],
+    "entity_type": "region",
+    "confidence": "disputed",
+    "description": "외눈박이 거인 폴리페모스와 조우한 곳. 고대부터 시칠리아와 연관되었으나 신화적 공간에 가까움.",
+    "source": "Homer, Odyssey 9.105-566"
+  },
+  {
+    "id": "place_aeolia",
+    "ancient_name": "Αἰολίη (Aiolie)",
+    "modern_name": "리파리 제도 (이탈리아)",
+    "coords": [14.95, 38.48],
+    "entity_type": "island",
+    "confidence": "traditional",
+    "description": "바람의 신 아이올로스가 다스리는 떠 있는 섬.",
+    "source": "Homer, Odyssey 10.1-79"
+  },
+  {
+    "id": "place_laestrygonians",
+    "ancient_name": "Λαιστρυγόνες (Laistrygones)의 땅",
+    "modern_name": "보니파시오 (코르시카) — 전통적 비정",
+    "coords": [9.16, 41.39],
+    "entity_type": "region",
+    "confidence": "disputed",
+    "description": "거인족 라이스트뤼고네스에게 함대 대부분을 잃은 곳.",
+    "source": "Homer, Odyssey 10.80-132"
+  },
+  {
+    "id": "place_aeaea",
+    "ancient_name": "Αἰαία (Aiaia)",
+    "modern_name": "몬테 치르체오 (이탈리아)",
+    "coords": [13.07, 41.22],
+    "entity_type": "island",
+    "confidence": "traditional",
+    "description": "마녀 키르케의 섬. 로마 시대부터 몬테 치르체오와 동일시됨.",
+    "source": "Homer, Odyssey 10.133-574"
+  },
+  {
+    "id": "place_sirens",
+    "ancient_name": "Σειρῆνες (Seirenes)의 바위",
+    "modern_name": "리 갈리 섬 (이탈리아)",
+    "coords": [14.47, 40.585],
+    "entity_type": "hazard",
+    "confidence": "traditional",
+    "description": "노래로 뱃사람을 유혹하는 세이렌들이 있는 곳.",
+    "source": "Homer, Odyssey 12.165-200"
+  },
+  {
+    "id": "place_scylla_charybdis",
+    "ancient_name": "Σκύλλα καὶ Χάρυβδις (Skylla kai Charybdis)",
+    "modern_name": "메시나 해협 (이탈리아·시칠리아)",
+    "coords": [15.63, 38.23],
+    "entity_type": "hazard",
+    "confidence": "traditional",
+    "description": "괴물 스킬라와 소용돌이 카립디스가 지키는 좁은 해협. 투키디데스 이래 메시나 해협과 동일시.",
+    "source": "Homer, Odyssey 12.201-259; Thucydides 4.24"
+  },
+  {
+    "id": "place_ogygia",
+    "ancient_name": "Ὠγυγίη (Ogygie)",
+    "modern_name": "고조 섬 (몰타) — 여러 비정 중 하나",
+    "coords": [14.24, 36.04],
+    "entity_type": "island",
+    "confidence": "disputed",
+    "description": "님프 칼립소의 섬. 실제 위치는 고대부터 여러 설이 엇갈리며 합의된 바 없음.",
+    "source": "Homer, Odyssey 5.13-281"
+  },
+  {
+    "id": "place_scheria",
+    "ancient_name": "Σχερίη (Scherie)",
+    "modern_name": "코르푸 (그리스)",
+    "coords": [19.92, 39.62],
+    "entity_type": "island",
+    "confidence": "traditional",
+    "description": "파이아케스족의 땅. 투키디데스가 코르키라(코르푸)와 동일시한 이래의 전통.",
+    "source": "Homer, Odyssey 6-8; Thucydides 1.25"
+  },
+  {
+    "id": "place_ithaca",
+    "ancient_name": "Ἰθάκη (Ithake)",
+    "modern_name": "이타키 섬 (그리스)",
+    "coords": [20.7128, 38.4529],
+    "entity_type": "city",
+    "confidence": "certain",
+    "description": "오디세우스의 고향이자 20년 여정의 최종 목적지.",
+    "source": "Homer, Odyssey 13 이하"
+  }
+]
